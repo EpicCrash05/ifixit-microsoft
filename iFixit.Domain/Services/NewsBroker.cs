@@ -11,7 +11,7 @@ namespace iFixit.Domain.Services
 {
     public class NewsBroker
     {
-        public const string Url = "http://feeds.ifixit.com/Ifixitorg?format=xml";
+        public const string Url = "http://feeds.ifixit.dankassassin368.com/Ifixitorg?format=xml";
         private HttpClient client = new HttpClient();
 
 

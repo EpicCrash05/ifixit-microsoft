@@ -1,5 +1,16 @@
-# ifixit-microsoft
+# ifixit-microsoft-apifix
 ================
+This fork is going to fix the flaws that causes the app to break on newer 2.0 api responses.
+
+Some things that crash include:
+
+Collections
+Guides (8.0)
+Login
+Unsupported SSL/TLS Connections to the main iFixit domain for v2.0 (To-do: MUST be done)
+
+This is the original description from the ifixit-microsoft repo,Credits to them for developing this amazing app!
+-----------------------------------------------------------------------------------------------------------
 
 iFixit mobile app development for Windows Phone 8, Windows 8 and Windows 8.1
 

@@ -173,7 +173,7 @@
                             </Paragraph>
 
                             <Paragraph>
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Contribute" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Contribute" TargetName="_blank">
 
                                     <Run FontWeight="Bold" Text="Start Contributing Now">
                                         <Run.Foreground>
@@ -217,7 +217,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/User_Account" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/User_Account" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="User Accounts">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -236,7 +236,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Repair_Guide" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Repair_Guide" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Repair Guides ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -254,7 +254,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Teardown" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Teardown" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Teardowns ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -272,7 +272,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Device_Page" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Device_Page" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Device Pages ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -291,7 +291,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Troubleshooting" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Troubleshooting" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Troubleshooting Pages ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -309,7 +309,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Help/Item_Page" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Help/Item_Page" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Item Page ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -327,7 +327,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Help/Answers" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Help/Answers" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Answers ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -355,7 +355,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Guide/Installing+A+Guitar+String/718/1" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Guide/Installing+A+Guitar+String/718/1" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Taking guide photos ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -373,7 +373,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Camera_Operating_Instructions" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Camera_Operating_Instructions" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Camera tips ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -403,7 +403,7 @@
 
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Writing_Guides" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Writing_Guides" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Writing Guides  ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -421,7 +421,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Repair_Guide_FAQ" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Repair_Guide_FAQ" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Repair Guide FAQ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -439,7 +439,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Teardown_FAQ" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Teardown_FAQ" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Teardown FAQ ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -457,7 +457,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Use_Guidelines" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Use_Guidelines" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Use Guidelines ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -475,7 +475,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Info/Device_Nomenclature" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Info/Device_Nomenclature" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Device Nomenclature ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -502,7 +502,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Help/#section-Site_Configuration_Management" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Help/#section-Site_Configuration_Management" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Administration and Moderation Help ">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -520,7 +520,7 @@
                             </Paragraph>
                             <Paragraph>
                                 <Run Text="-" />
-                                <Hyperlink NavigateUri="http://www.ifixit.com/Help" TargetName="_blank">
+                                <Hyperlink NavigateUri="http://ifixit.dankassassin368.com/Help" TargetName="_blank">
                                     <Run FontWeight="Bold" Text="Help Documentation">
                                         <Run.Foreground>
                                             <SolidColorBrush Color="#FF006EDB">
@@ -584,7 +584,7 @@
                                 Style="{StaticResource BorderLessGridButton02}">
                             <i:Interaction.Triggers>
                                 <i:EventTrigger EventName="Tap">
-                                    <cmd:EventToCommand Command="{Binding DataContext.GoToItem, ElementName=LayoutRoot, Mode=OneWay}" CommandParameter="http://ifixit.com/answers" />
+                                    <cmd:EventToCommand Command="{Binding DataContext.GoToItem, ElementName=LayoutRoot, Mode=OneWay}" CommandParameter="http://ifixit.dankassassin368.com/answers" />
 
                                 </i:EventTrigger>
                             </i:Interaction.Triggers>
@@ -604,7 +604,7 @@
                                     <HyperlinkButton HorizontalAlignment="Left"
                                                      Content="Need help with a specific repair?"
                                                      Foreground="{StaticResource HighlightBrush}"
-                                                     NavigateUri="http://ifixit.com/answers"
+                                                     NavigateUri="http://ifixit.dankassassin368.com/answers"
                                                      Style="{StaticResource HyperlinkButtonStyle1}"
                                                      TargetName="_blank" />
                                     <TextBlock Margin="12,0,0,0"
@@ -657,7 +657,7 @@
                         <Button HorizontalContentAlignment="Stretch" Style="{StaticResource BorderLessGridButton02}">
                             <i:Interaction.Triggers>
                                 <i:EventTrigger EventName="Tap">
-                                    <cmd:EventToCommand Command="{Binding DataContext.GoToItem, ElementName=LayoutRoot, Mode=OneWay}" CommandParameter="http://meta.ifixit.com" />
+                                    <cmd:EventToCommand Command="{Binding DataContext.GoToItem, ElementName=LayoutRoot, Mode=OneWay}" CommandParameter="http://meta.ifixit.dankassassin368.com" />
 
                                 </i:EventTrigger>
                             </i:Interaction.Triggers>
@@ -678,12 +678,12 @@
                                         <HyperlinkButton HorizontalAlignment="Left"
                                                          Content="Want to discuss iFixit things?"
                                                          Foreground="{StaticResource HighlightBrush}"
-                                                         NavigateUri="http://meta.ifixit.com"
+                                                         NavigateUri="http://meta.ifixit.dankassassin368.com"
                                                          Style="{StaticResource HyperlinkButtonStyle1}"
                                                          TargetName="_blank" />
                                         <TextBlock Margin="12,0,0,0"
                                                    Foreground="{StaticResource FourthBackgroundBrush}"
-                                                   Text="Join the discussion on meta.ifixit.com"
+                                                   Text="Join the discussion on meta.ifixit.dankassassin368.com"
                                                    TextWrapping="Wrap" />
                                     </StackPanel>
                                 </Grid>

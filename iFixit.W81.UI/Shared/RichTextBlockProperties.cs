@@ -339,7 +339,7 @@ namespace iFixit.UI.Shared
             string lk = node.Attributes["href"].Value;
             if (!lk.Contains("http"))
             {
-                lk = string.Format("http://ifixit.com/{0}", lk);
+                lk = string.Format("http://ifixit.dankassassin368.com/{0}", lk);
             }
             hb = new Hyperlink() { NavigateUri = new Uri(lk, UriKind.RelativeOrAbsolute) };
 

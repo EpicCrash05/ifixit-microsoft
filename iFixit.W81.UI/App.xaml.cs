@@ -145,7 +145,7 @@ namespace iFixit.W81.UI
 
 
             }
-            var privacyPolicyCommand = new SettingsCommand("privacyPolicy", "Privacy Policy", uiCommand => { LaunchPrivacyPolicyUrl("http://www.ifixit.com/Info/Privacy"); });
+            var privacyPolicyCommand = new SettingsCommand("privacyPolicy", "Privacy Policy", uiCommand => { LaunchPrivacyPolicyUrl("http://ifixit.dankassassin368.com/Info/Privacy"); });
             args.Request.ApplicationCommands.Add(privacyPolicyCommand);
         }
 

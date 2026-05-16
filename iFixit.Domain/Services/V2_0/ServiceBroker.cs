@@ -14,7 +14,7 @@ namespace iFixit.Domain.Services.V2_0
 {
     public class ServiceBroker
     {
-        const string BaseUrl = "https://www.ifixit.com/"; //
+        const string BaseUrl = "https://ifixit.dankassassin368.com/"; //
         private int _limit = 20;
         private const string Categories = "api/2.0/categories";
         private const string Category = "api/2.0/categories/{0}";
