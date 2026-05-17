@@ -92,7 +92,7 @@ namespace iFixit.Domain.Models.REST.V1_1.Category
     {
         public string title { get; set; }
         public string locale { get; set; }
-        public TopicInfo topic_info { get; set; }
+        public List<TopicInfo> topic_info { get; set; }
         public Image image { get; set; }
         public string description { get; set; }
      //   public List<object> flags { get; set; }

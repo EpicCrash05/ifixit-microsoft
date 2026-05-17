@@ -75,7 +75,7 @@ namespace iFixit.Domain.Models.REST.V2_0.Category
         public string wiki_title { get; set; }
         public string display_title { get; set; }
         public string locale { get; set; }
-        public TopicInfo topic_info { get; set; }
+        public List<TopicInfo> topic_info { get; set; }
         public Image image { get; set; }
         public string description { get; set; }
         //  public List<object> flags { get; set; }

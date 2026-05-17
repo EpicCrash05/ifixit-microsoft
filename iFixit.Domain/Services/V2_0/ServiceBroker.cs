@@ -497,8 +497,7 @@ namespace iFixit.Domain.Services.V2_0
 
 
                 content = content.Replace("&quot;", "''").Replace("&amp;", "&");
-                //quick workarround about having the same json data object returning diferent objects
-                content = content.Replace("\"type\":\"video\",\"data\"", "\"type\":\"video\",\"videodata\"");
+                content = FixVideoJson(content);
                 return content.LoadFromJson<Models.REST.V2_0.Guide.RootObject>();
 
 
@@ -622,5 +621,37 @@ namespace iFixit.Domain.Services.V2_0
                 _client.DefaultRequestHeaders.Add("User-Agent", string.Format("ifixit wp+{0}",appVersion));
 
         }
+
+        private string FixVideoJson(string content)
+        {
+            try
+            {
+                var json = JObject.Parse(content);
+
+                var videoNodes = json.SelectTokens("$..type")
+                                     .Where(t => t.Type == JTokenType.String &&
+                                                 t.Value<string>() == "video");
+
+                foreach (var node in videoNodes)
+                {
+                    var parent = node.Parent as JObject;
+                    if (parent == null) continue;
+
+                    var data = parent["data"];
+                    if (data != null)
+                    {
+                        parent["videodata"] = data;
+                        parent.Remove("data");
+                    }
+                }
+
+                return json.ToString(Formatting.None);
+            }
+            catch
+            {
+                return content;
+            }
+        }
+
     }
 }

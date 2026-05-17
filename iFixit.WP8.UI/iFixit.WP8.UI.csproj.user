@@ -4,14 +4,16 @@
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <CurrentDeployCmdId>256</CurrentDeployCmdId>
-    <CurrentDeployID>BC33F59A-75C2-482D-A3EB-5B80CD5F0DDE</CurrentDeployID>
+    <CurrentDeployCmdId>
+    </CurrentDeployCmdId>
+    <CurrentDeployID>
+    </CurrentDeployID>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
       <FlavorProperties GUID="{C089C8C0-30E0-4E22-80C0-CE093F111A43}">
         <SilverlightMobileCSProjectFlavor>
-          <FullDeploy>False</FullDeploy>
+          <FullDeploy>True</FullDeploy>
           <DebuggerType>Managed</DebuggerType>
           <DebuggerAgentType>Managed</DebuggerAgentType>
           <Tombstone>False</Tombstone>

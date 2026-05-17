@@ -14,7 +14,7 @@
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>iFixit.W81.UI_StoreKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>iFixit.W81.UI_TemporaryKey.pfx</PackageCertificateKeyFile>
     <SccProjectName>SAK</SccProjectName>
     <SccLocalPath>SAK</SccLocalPath>
     <SccAuxPath>SAK</SccAuxPath>
@@ -23,7 +23,7 @@
     <RestorePackages>true</RestorePackages>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>74207C696CD6C36538263D39E38EBDA8639D0EE6</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>E0F41753DE3D849B2F9E0243BDEE5F90B5AE218F</PackageCertificateThumbprint>
     <NuGetPackageImportStamp>0f946156</NuGetPackageImportStamp>
     <AppxBundle>Always</AppxBundle>
   </PropertyGroup>
